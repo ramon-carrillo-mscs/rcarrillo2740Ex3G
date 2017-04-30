@@ -1,0 +1,12 @@
+101
+Scott Lang
+10.0
+30.0
+102
+Wanda Maximoff
+50.0
+10.0
+103
+Peter Quill
+30.0
+10.0
